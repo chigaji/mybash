@@ -85,7 +85,6 @@ bind '"\e[C": forward-char'
 bind '"\e[D": backward-char'
 ```
 
-
 ## 5. BETTER DIRECTORY NAVIGATION 
 
 ```sh
@@ -113,4 +112,4 @@ shopt -s histappend
 
 
 ### credits
-`[https://github.com/mrzool/bash-sensible]([https://github.com/mrzool/bash-sensible)`
+`[bash-sensible](https://github.com/mrzool/bash-sensible)`
