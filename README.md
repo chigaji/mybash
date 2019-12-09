@@ -112,4 +112,4 @@ shopt -s histappend
 
 
 ### credits
-`[bash-sensible](https://github.com/mrzool/bash-sensible)`
+[bash-sensible](https://github.com/mrzool/bash-sensible)
