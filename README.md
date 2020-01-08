@@ -3,7 +3,7 @@
 This is an example of my `.bashrc` file. I made customizations as shown below:-
 
 ## HOW TO USE
-Copy parts or all of the .bashrc file into your systems .bashrc file.
+Make a backup of your .bashrc file. Copy parts or all of the .bashrc file into your systems .bashrc file and edit as you please.
 
 ## 1. BEAUTIFY TERMINAL WITH COLORS AND RANDOM EMOJIS
 ### setting random emoji function
